@@ -92,4 +92,6 @@ Conclusion & Business Recommendations:
 4. Improve shipping options where **First Class or Same Day** are underused.
 5. Expand successful sales strategies from **central regions** to underperforming areas.
 
+https://github.com/Sourabh-verma-01/Projects_self/blob/main/Store%20sales%20dash%20board.JPG
+
 
