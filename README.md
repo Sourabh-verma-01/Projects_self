@@ -97,3 +97,8 @@ Show what the dashboard looks like. - Alt text Example:
 https://github.com/Sourabh-verma-01/Projects_self/blob/main/Store%20sales%20dash%20board.JPG
 
 
+### 6.	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Sourabh-verma-01/Projects_self/blob/main/Store%20sales%20dash%20board.JPG)
+
+
